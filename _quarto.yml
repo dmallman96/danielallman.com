@@ -4,10 +4,10 @@ project:
   resources:
     - CNAME
   render: 
-    - web_pages/Home.qmd
-    - web_pages/Projects.qmd
-    - web_pages/Photography.qmd
-    - web_pages/Contact.qmd
+    - pages/home.qmd
+    - pages/hrojects.qmd
+    - pages/photography.qmd
+    - pages/contact.qmd
   
 website:
   title: ""
@@ -16,15 +16,15 @@ website:
     pinned: true
 
     left:
-      - href: web_pages/Home.qmd
+      - href: pages/home.qmd
         text: Daniel Allman
         
     right:
-      - href: web_pages/Projects.qmd
+      - href: pages/projects.qmd
         text: Projects
-      - href: web_pages/Photography.qmd
+      - href: pages/photography.qmd
         text: Photography
-      - href: web_pages/Contact.qmd
+      - href: pages/contact.qmd
         text: Contact
         
       - icon: mortarboard
