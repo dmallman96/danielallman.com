@@ -9,9 +9,10 @@ website:
   search: false
   navbar:
     pinned: true
+      - href: pages/index
+        text: Daniel Allman
     right:
-      - href: pages/index.qmd
-        text: Home  
+
       - href: pages/Projects.qmd
         text: Projects
       - href: pages/Contact.qmd
