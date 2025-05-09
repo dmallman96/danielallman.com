@@ -11,7 +11,7 @@ website:
     pinned: true
 
     left:
-      - href: index.qmd
+      - href: Home.qmd
         text: Daniel Allman
         
     right:
