@@ -1,23 +1,37 @@
 [
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
+    "objectID": "Home.html",
+    "href": "Home.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Thanks for checking out my web site!"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "hi"
+  },
+  {
+    "objectID": "Projects.html#project-1",
+    "href": "Projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "hi"
+  },
+  {
+    "objectID": "Projects.html#project-2",
+    "href": "Projects.html#project-2",
     "title": "Projects",
     "section": "Project 2",
     "text": "Project 2"
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
+    "objectID": "Projects.html#project-3",
+    "href": "Projects.html#project-3",
     "title": "Projects",
     "section": "Project 3",
     "text": "Project 3"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Thanks for checking out my web site!"
   }
 ]

@@ -4,6 +4,8 @@ title: "Projects"
 
 ## Project 1
 
+hi
+
 ## Project 2
 
 ## Project 3

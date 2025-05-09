@@ -10,9 +10,9 @@ website:
   navbar:
     pinned: true
     right:
-      - href: index.qmd
+      - href: Home.qmd
         text: Home
-      - href: projects.qmd
+      - href: Projects.qmd
         text: Projects
       - href: Photos.qmd
         text: Photos
