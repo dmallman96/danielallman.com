@@ -12,8 +12,6 @@ website:
     logo: pages/images/ant_jump.jpg
     logo-href: index.qmd
     right:
-      - href: index.qmd
-        text: Home
       - href: pages/Projects.qmd
         text: Projects
       - href: pages/Contact.qmd

@@ -3,4 +3,6 @@ title: "Contact"
 format: html
 ---
 
-Hihihi
+Contact me here:
+
+Email: xxx
