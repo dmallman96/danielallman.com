@@ -1,7 +1,6 @@
 ---
 title: "Home"
-about:
-  template: broadside
+format: html
 ---
 
-Hola!
+Hola! This is an updated test
