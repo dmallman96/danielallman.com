@@ -12,8 +12,8 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: Projects.qmd
-        text: projects
+      - href: projects.qmd
+        text: Projects
       - href: Photos.qmd
         text: Photos
       - href: Contact.qmd
