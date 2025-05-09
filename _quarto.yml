@@ -1,27 +1,32 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
   
 website:
   title: "Daniel Allman"
+  search: false
   navbar:
-    left:
+    pinned: true
+    right:
       - href: index.qmd
         text: Home
-      - projects.qmd
-    tools:
-      - icon: twitter
-        href: https://twitter.com/
-      - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
+      - href: projects.qmd
+
+      - icon: mortarboard
+        href: https://scholar.google.com.au/citations?view_op=list_works&hl=en&user=EJzZvOYAAAAJ&gmla=AIfU4H76cl-gMSFa6zlgdAhH02pVZVMqxO4gnIpnafhIses84Bxx6BBCA4xEdmc-Gj7XbaAxlbUM8f3oSQK_nN3ZKM0cmALZ-ZTPsFHeshgHk34u_TtS
+        target: _blank
+      - icon: person-circle
+        href: https://orcid.org/0009-0000-2249-2841
+        target: _blank
+
   page-footer:
-    right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    right: "&copy; Copyright 2025, Daniel Allman"
 
 format:
   html:
-    theme: cerulean
-    toc: true
+    theme: simplex
 
 editor: source
 
