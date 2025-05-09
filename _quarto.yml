@@ -13,7 +13,7 @@ website:
       - href: index.qmd
         text: Home
       - href: Projects.qmd
-        text: Projects
+        text: projects
       - href: Photos.qmd
         text: Photos
       - href: Contact.qmd
