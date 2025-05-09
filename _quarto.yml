@@ -12,6 +12,12 @@ website:
     right:
       - href: index.qmd
         text: Home
+      - href: Projects.qmd
+        text: Projects
+      - href: Photos.qmd
+        text: Photos
+      - href: Contact.qmd
+        text: Contact
 
       - icon: mortarboard
         href: https://scholar.google.com.au/citations?view_op=list_works&hl=en&user=EJzZvOYAAAAJ&gmla=AIfU4H76cl-gMSFa6zlgdAhH02pVZVMqxO4gnIpnafhIses84Bxx6BBCA4xEdmc-Gj7XbaAxlbUM8f3oSQK_nN3ZKM0cmALZ-ZTPsFHeshgHk34u_TtS
