@@ -10,7 +10,7 @@ website:
   navbar:
     pinned: true
     logo: pages/images/ant_jump.jpg
-    logo-href: index.qmd
+    logo-href: pages/Home.qmd
     right:
       - href: pages/Projects.qmd
         text: Projects
