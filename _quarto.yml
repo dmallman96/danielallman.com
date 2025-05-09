@@ -11,13 +11,15 @@ website:
     pinned: true
 
     left:
-      - href: index.qmd
+      - href: Home.qmd
         text: Daniel Allman
         
     right:
-      - href: Projects.qmd
+      - href: web_pages/Projects.qmd
         text: Projects
-      - href: Contact.qmd
+      - href: web_pages/Photography.qmd
+        text: Photography
+      - href: web_pages/Contact.qmd
         text: Contact
         
       - icon: mortarboard
