@@ -10,9 +10,9 @@ website:
   navbar:
     pinned: true
     right:
-      - href: index.qmd
+      - href: pages/index.qmd
         text: Home
-      - href: Projects.qmd
+      - href: pages/Projects.qmd
         text: Projects
 
       - icon: mortarboard
