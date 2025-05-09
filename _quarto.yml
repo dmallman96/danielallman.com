@@ -9,6 +9,7 @@ website:
   search: false
   navbar:
     pinned: true
+    left:
       - href: pages/index
         text: Daniel Allman
     right:
