@@ -5,7 +5,7 @@ project:
     - CNAME
   render: 
     - pages/home.qmd
-    - pages/hrojects.qmd
+    - pages/projects.qmd
     - pages/photography.qmd
     - pages/contact.qmd
   
