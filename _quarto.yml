@@ -9,14 +9,15 @@ website:
   search: false
   navbar:
     pinned: true
-    left:
-      - href: pages/index
-        text: Daniel Allman
-    right:
 
-      - href: pages/Projects.qmd
+    left:
+      - href: index.qmd
+        text: Daniel Allman
+        
+    right:
+      - href: Projects.qmd
         text: Projects
-      - href: pages/Contact.qmd
+      - href: Contact.qmd
         text: Contact
         
       - icon: mortarboard
