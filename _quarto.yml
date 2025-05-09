@@ -9,8 +9,10 @@ website:
   search: false
   navbar:
     pinned: true
+    logo: pages/images/ant_jump.jpg
+    logo-href: index.qmd
     right:
-      - href: pages/index.qmd
+      - href: index.qmd
         text: Home
       - href: pages/Projects.qmd
         text: Projects
