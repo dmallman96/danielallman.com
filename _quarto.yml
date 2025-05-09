@@ -3,6 +3,11 @@ project:
   output-dir: docs
   resources:
     - CNAME
+  render: 
+    - web_pages/Home.qmd
+    - web_pages/Projects.qmd
+    - web_pages/Photography.qmd
+    - web_pages/Contact.qmd
   
 website:
   title: ""
