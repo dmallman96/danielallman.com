@@ -18,7 +18,6 @@ website:
     logo-href: home.qmd
         
     right:
-      - href: pages/home.qmd
       - href: pages/projects.qmd
         text: Projects
       - href: pages/photography.qmd
