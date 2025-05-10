@@ -16,4 +16,4 @@ You might think that a jump is an easy thing to do, but it is actually quite dif
 <a href="https://doi.org/10.25949/26793253.v1" target="_blank">Master of Research thesis</a>
 with a cool discovery being that one group of Australian ants that were said to be incapable of jumping for the last 100 years were actually capable of leaping 3–4 cm to  move about their environment effeciently.
 
-The first photograph of the Australian ant *Myrmecia tarsata* mid jump!
+![The first photograph of the Australian ant *Myrmecia tarsata* mid jump!](/pages/images/ant_jump.jpg)

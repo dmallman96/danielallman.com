@@ -10,16 +10,15 @@ project:
     - pages/contact.qmd
   
 website:
-  title: ""
+  title: "Daniel Allman"
   search: false
   navbar:
     pinned: true
-
-    left:
-      - href: pages/home.qmd
-        text: Daniel Allman
+    logo: pages/images/ant_jump.jpg
+    logo-href: home.qmd
         
     right:
+      - href: pages/home.qmd
       - href: pages/projects.qmd
         text: Projects
       - href: pages/photography.qmd
