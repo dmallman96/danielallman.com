@@ -21,13 +21,13 @@ include-in-header:
 engine: quarto
 ---
 
-I love taking photos. Here are some of my favourites:
+Photography is one of my many passions. Here is a selection of some of my favourite photos I've taken over the years:
 <br>
 <br>
 
 :::: {.grid data-masonry='{ "itemSelector": ".grid-item" }'}
 :::{.grid-item}
-![example-caption-01](images/ant_jump.jpg)
+![test](images/ant_jump.jpg)
 :::
 :::{.grid-item}
 ![example-caption-02](images/ant_jump.jpg)

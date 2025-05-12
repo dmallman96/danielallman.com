@@ -8,7 +8,7 @@ project:
     - pages/projects.qmd
     - pages/photography.qmd
     - pages/contact.qmd
-  
+
 website:
   title: "Daniel Allman"
   search: false

@@ -3,6 +3,7 @@ title: ""
 format: html
 ---
 
-Contact me here:
-
-Email: xxx
+# Contact
+Feel free to reach out to me here:
+<br>
+Email: daniel.allman@sydney.edu.au

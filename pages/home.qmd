@@ -6,8 +6,10 @@ INSERT PHOTO HERE
 <br>
 
 # About Me  
-I'm Daniel, a PhD candidate from the University of Sydney, Australia. This website is a test to slowly build my academic profile. I created this in Jupyter using Joyce Robbins' template and guide (https://github.com/jtr13/website-template). <br>
-Go give it a star and play around if you want to do something similar!
+I'm Daniel, a PhD candidate from the University of Sydney, Australia, and this website is a test to slowly build my academic profile. 
+<br>
+<br>
+My interests lie in animal behaviour and evolution. More specifically, I love invertebrates and how they interact with the world around them depsite the obvious disadvantage of being small. Check out the projects tab to learn more about what I am interested in.
 
 # Education
 2018–2021 - Bachelor of Marine Science at Macquarie University <br>
