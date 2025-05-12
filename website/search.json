@@ -2,29 +2,29 @@
   {
     "objectID": "pages/contact.html",
     "href": "pages/contact.html",
-    "title": "Daniel Allman",
+    "title": "Contact",
     "section": "",
-    "text": "Contact me here:\nEmail: xxx"
+    "text": "Contact\nFeel free to reach out to me here:  Email: daniel.allman@sydney.edu.au"
   },
   {
     "objectID": "pages/projects.html",
     "href": "pages/projects.html",
-    "title": "Can Invertebrates Feel Pain?",
+    "title": "Projects",
     "section": "",
-    "text": "A wide range of topics facinate me. Here are a few that I am currently working on. \n\nCan Invertebrates Feel Pain?\nHumans have long thought that pain is an experience exclusive to us. Recently, however, we have realised that other animals such as non-human mammals, birds, reptiles, fish, cephalopods, and crustaceans respond to noxious stimuli in a way that is consistent with the idea of suffering and pain. The issue is that insects compose over 75% of all named species in the world yet it remains unknown if these animals are capable of suffering like all other tested animal groups.   INSERT PHOTO OF INSECT GROOMING HERE\n\n\nBiomechanics of Jumping Insects\nYou might think that a jump is an easy thing to do, but it is actually quite difficult task for an insect that is a thousand times smaller than we are. I am fascinated as to how, despite being so challenging, insects jump frequently as they explore their world, catch prey, and escape predators. My findings were published in my Master of Research thesis with a cool discovery being that one group of Australian ants that were said to be incapable of jumping for the last 100 years were actually capable of leaping 3–4 cm to move about their environment effeciently.\n\n\n\nThe first photograph of the Australian ant Myrmecia tarsata mid jump!"
+    "text": "Projects\nI am interested in a wide range of topics. Here are a few that I am currently working on:  \n\n\nCan invertebrates feel pain?\nHumans have long thought that pain and suffering was an experience unique to us. Recently, however, we have realised that other animals such as non-human mammals, birds, reptiles, fish, cephalopods, and crustaceans respond to noxious stimuli in a way that is consistent with the idea of pain and suffering. Insects are absent from this list, which is peculiar as they compose over 75% of all named species in the world and remain understudied in the field of pain and sentience. I am interested in exploring the idea of sentience and the subjective experience of pain in insects using their behavioural responses to noxious stimuli.  \n\n\n\nINSERT PHOTO OF INSECT GROOMING HERE!\n\n\n \n\n\nHow and why insects jump\nYou might think that jumping is an easy behaviour to perform, but it is actually quite a challenge for insects, which are thousands of times smaller than we are. I am fascinated as to how insects jump frequently as they explore their world, catch prey, and escape predators despite the difficulty to execute such jumps. My findings were compiled in my Master of Research thesis with a cool discovery being that one group of Australian ants that were said to be incapable of jumping for the last 100 years were actually capable of leaping 3–4 cm to move about their environment efficiently.  \n\n\n\nThe first photograph of the Australian ant Myrmecia tarsata mid jump!"
   },
   {
     "objectID": "pages/home.html",
     "href": "pages/home.html",
     "title": "About Me",
     "section": "",
-    "text": "INSERT PHOTO HERE \n\nAbout Me\nI’m Daniel, a PhD candidate from the University of Sydney, Australia. This website is a test to slowly build my academic profile. I created this in Jupyter using Joyce Robbins’ template and guide (https://github.com/jtr13/website-template).  Go give it a star and play around if you want to do something similar!\n\n\nEducation\n2018–2021 - Bachelor of Marine Science at Macquarie University  2022–2024 - Master of Research at Macquarie University  2025–Present - Doctor of Philosophy at University of Sydney\n\n\nExperience\nxxx"
+    "text": "INSERT PHOTO HERE \n\nAbout Me\nI’m Daniel, a PhD candidate from the University of Sydney, Australia, and this website is a test to slowly build my academic profile.   My interests lie in animal behaviour and evolution. More specifically, I love invertebrates and how they interact with the world around them depsite the obvious disadvantage of being small. Check out the projects tab to learn more about what I am interested in.\n\n\nEducation\n2018–2021 - Bachelor of Marine Science at Macquarie University  2022–2024 - Master of Research at Macquarie University  2025–Present - Doctor of Philosophy at University of Sydney\n\n\nExperience\nxxx"
   },
   {
     "objectID": "pages/photography.html",
     "href": "pages/photography.html",
     "title": "Photography",
     "section": "",
-    "text": "I love taking photos. Here are some of my favourites:  \n\n\n\n\n\nexample-caption-01\n\n\n\n\n\n\n\nexample-caption-02\n\n\n\n\n\n\n\nexample-caption-03\n\n\n\n\n\n\n\nexample-caption-04\n\n\n\n\n\n\n\nexample-caption-05"
+    "text": "Photography is one of my many passions. Here is a selection of some of my favourite photos I’ve taken over the years:  \n\n\n\n\n\ntest\n\n\n\n\n\n\n\nexample-caption-02\n\n\n\n\n\n\n\nexample-caption-03\n\n\n\n\n\n\n\nexample-caption-04\n\n\n\n\n\n\n\nexample-caption-05"
   }
 ]
