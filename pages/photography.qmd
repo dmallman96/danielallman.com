@@ -30,16 +30,16 @@ Photography is one of my many passions. Here is a selection of some of my favour
 ![test](images/ant_jump.jpg)
 :::
 :::{.grid-item}
-![example-caption-02](images/ant_jump.jpg)
+![example-caption-02](images/amethyst.jpg)
 :::
 :::{.grid-item}
-![example-caption-03](images/ant_jump.jpg)
+![example-caption-03](images/ammonite.jpg)
 :::
 :::{.grid-item}
-![example-caption-04](images/ant_jump.jpg)
+![example-caption-04](images/nigrocincta.jpg)
 :::
 :::{.grid-item}
-![example-caption-05](images/ant_jump.jpg)
+![example-caption-05](images/niko.jpg)
 :::
 ::::
 
